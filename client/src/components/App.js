@@ -3,10 +3,10 @@ import {BrowserRouter,Route} from 'react-router-dom';
 import {connect} from 'react-redux';
 import * as actions from '../actions';
 import Landing from './Landing';
+import Dashboard from './Dashboard';
+import SurveyNew from './surveys/SurveyNew';
 
 import Header from './Header';
-const Dashboard = ()=> <div><h2>Dashboard</h2></div>
-const SurveyNew = ()=> <div><h2>SurveyNew</h2></div>
 
 class App extends Component {
     //reasons for using componentDidMount for our ajax requests is because there is little difference in

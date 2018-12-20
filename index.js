@@ -7,6 +7,7 @@ const express = require ('express'),
 
 //because we are not exporting module, returning anything (also order matters)
 require ('./models/User');
+require('./models/Survey');
 require('./services/passport');
 
 
@@ -29,7 +30,7 @@ app.use(passport.session());
 //our auth routes
 require('./routes/authRoutes')(app);
 require('./routes/billingRoutes')(app);
-
+require('./routes/surveyRoutes')(app);
 if(process.env.NODE_ENV === 'production'){
     //Express will serve app production assets
     app.use(express.static('client/build'));
