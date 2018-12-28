@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab51e77-7819-4816-b393-74d854df96ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/surveysReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Dashboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/surveyRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/surveyRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/emailTemplates/surveyTemplate.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/emailTemplates/surveyTemplate.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/config/dev.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="87" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="87" />
+              <caret line="7" column="87" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -98,7 +87,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/surveys/SurveyList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="187">
               <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -192,7 +181,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
+    <option name="x" value="125" />
     <option name="y" value="-15" />
     <option name="width" value="1750" />
     <option name="height" value="940" />
@@ -203,6 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,7 +249,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -393,11 +382,13 @@
       <workItem from="1545499117565" duration="1909000" />
       <workItem from="1545646332391" duration="5745000" />
       <workItem from="1545664352102" duration="115000" />
+      <workItem from="1545665641318" duration="716000" />
+      <workItem from="1545686121125" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133600000" />
+    <option name="totallyTimeSpent" value="134348000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +400,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="101" y="-12" width="1400" height="752" extended-state="0" />
+    <frame x="100" y="-12" width="1400" height="752" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49759614" visible="true" weight="0.24651504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -729,7 +720,7 @@
     <entry file="file://$PROJECT_DIR$/config/dev.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="87" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="87" />
+          <caret line="7" column="87" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -776,7 +767,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/surveys/SurveyList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="187">
           <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
